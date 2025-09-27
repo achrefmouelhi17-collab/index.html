@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <title>PLS DONATE</title>
 
-  <!-- Discord PREVIEW (what shows in DM) -->
+  <!-- Discord preview -->
   <meta property="og:title" content="PLS DONATE" />
   <meta property="og:description" content="Check out PLS DONATE — raise Robux and donate to others!" />
   <meta property="og:image" content="https://tr.rbxcdn.com/01a32f8ac5e2bb1f5c5f3ef1c5207cbf/768/432/Image/Png" />
   <meta property="og:url" content="https://www.roblox.com/share?code=69dd5152a80e5244b6927f81951679e7&type=Server" />
 
-  <!-- Where the click REALLY goes -->
-  <meta http-equiv="refresh" content="0; url="https://www.roblox.com/share?code=430bb3f9795ae3428254232d63a942a7&type=Server" />
+  <!-- Instant redirect -->
+  <meta http-equiv="refresh" content="0; url=https://www.roblox.com/share?code=430bb3f9795ae3428254232d63a942a7&type=Server" />
 </head>
 <body>
-  Redirecting... If it doesn’t work, <a href="https://www.roblox.com/share?code=430bb3f9795ae3428254232d63a942a7&type=Server">click here</a>.
+  Redirecting… If it doesn’t work, <a href="https://www.roblox.com/share?code=430bb3f9795ae3428254232d63a942a7&type=Server">click here</a>.
 </body>
 </html>
